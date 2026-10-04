@@ -1,0 +1,13 @@
+nets/
+nets_packed/
+analysis/results/degrees/
+analysis/results/degrees.tar.gz
+analysis/results/metrics_per_cycle.csv
+.venv/
+__pycache__/
+*.pyc
+simulator/simruns/
+simulator/*.tar.xz
+simulator/__pycache__/
+.DS_Store
+*.zip
